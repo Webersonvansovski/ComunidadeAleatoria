@@ -2,7 +2,7 @@
 
 PROJETO DE SITE COM O FLASK
 
-Site com o intuito de ser uma comunidade aleatótia focada em back-end com python.
+Site com o intuito de ser uma comunidade aleatória focada em back-end com python.
 
 projeto contém formularios, 
 tela de login/criar conta funcionais, 
