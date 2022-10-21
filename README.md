@@ -9,6 +9,6 @@ tela de login/criar conta funcionais,
 publicação e exclusão de post funcionais.
 
 
-primeira ideia do site era de uma comunidade onde alunos poderiam conversar sobre o curso da hashtag programações
+primeira ideia do site era de uma comunidade onde alunos poderiam conversar sobre o curso da HashtagTreinamentos
 aqui o link da ideia original onde o site esta no ar, hospedado na heroku:
 https://comunidadehashtagpy.herokuapp.com/
