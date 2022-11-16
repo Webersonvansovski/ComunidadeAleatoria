@@ -1,4 +1,4 @@
-# ComunidadeIMpressionadora
+# ComunidadeImpressionadora
 
 ## PROJETO DE SITE COM O FLASK
 
