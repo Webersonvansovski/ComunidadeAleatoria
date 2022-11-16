@@ -1,4 +1,4 @@
-# ComunidadeAleatoria
+# ComunidadeIMpressionadora
 
 ## PROJETO DE SITE COM O FLASK
 
